@@ -1,4 +1,3 @@
-<x-app-layout>
 <!--Graph Content -->
 <div id="main-content" class="w-full flex-1">
 
@@ -117,4 +116,3 @@
 </div>
 
 </div>
-</x-app-layout>
